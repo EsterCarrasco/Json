@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <nombre>Carrefor</nombre>
+  <localidad>Mostoles</localidad>
+  <direccion>carretera de Extremadura (N-V), KM. 19</direccion>
+  <seccion>
+    <nombre>hogar</nombre>
+    <productos>
+      <limpiacristales>
+        <precio>1.25€</precio>
+        <tamaño>1000ml</tamaño>
+        <marca>Carrefor</marca>
+        <oferta>
+          <precio>1€</precio>
+          <fechaini>20/03/23</fechaini>
+          <fechafin>30/03/23</fechafin>
+        </oferta>
+        <adquirido>true</adquirido>
+      </limpiacristales>
+      <lavavajillas>
+        <precio>1.59€</precio>
+        <tamaño>1000ml</tamaño>
+        <marca>Carrefor</marca>
+        <oferta/>
+        <adquirido>true</adquirido>
+      </lavavajillas>
+      <bolsas basura>
+        <precio>1.99€</precio>
+        <cantidad>40u</cantidad>
+        <tamaño>30l</tamaño>
+        <oferta/>
+        <adquirido>false</adquirido>
+      </bolsas basura>
+    </productos>
+  </seccion>
+  <seccion>
+    <nombre>fruteria</nombre>
+    <productos>
+      <manzana golden>
+        <precio>2.55€</precio>
+        <descripcion>ecologica bandeja</descripcion>
+        <cantidad>4u</cantidad>
+        <peso>750g</peso>
+        <oferta/>
+        <adquirido>true</adquirido>
+      </manzana golden>
+      <pera blanquilla>
+        <precio>2.65€</precio>
+        <descripcion>cesta</descripcion>
+        <cantidad>10u</cantidad>
+        <peso>1500g</peso>
+        <oferta/>
+        <adquirido>true</adquirido>
+      </pera blanquilla>
+      <platano>
+        <precio>3.59€</precio>
+        <descripcion>ecologico</descripcion>
+        <peso>1200g</peso>
+        <oferta>
+          <precio>3€</precio>
+          <fechaini>20/03/23</fechaini>
+          <fechafin>30/03/23</fechafin>
+        </oferta>
+        <adquirido>false</adquirido>
+      </platano>
+    </productos>
+  </seccion>
+  <seccion>
+    <nombre>carniceria</nombre>
+    <productos>
+      <pollo>
+        <precio>5€</precio>
+        <descripcion>corte extrafino</descripcion>
+        <peso>320g</peso>
+        <oferta>
+          <precio>4.25€</precio>
+          <fechaini>20/03/23</fechaini>
+          <fechafin>30/03/23</fechafin>
+        </oferta>
+        <adquirido>true</adquirido>
+      </pollo>
+    </productos>
+  </seccion>
+  <costo>24.75€</costo>
+  <costodescuento>23€</costodescuento>

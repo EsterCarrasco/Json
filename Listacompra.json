@@ -1,0 +1,303 @@
+
+  {
+    "supermercado1": [
+      {
+        "nombre": "Carrefor",
+        "localidad": "Mostoles",
+        "direccion": "carretera de Extremadura (N-V), KM. 19"
+      },
+      {
+        "seccion": "hogar",
+        "productos": [
+          {
+            "limpiacristales": [
+              {
+                "precio": "1.25€",
+                "tamaño": "1000ml",
+                "marca": "Carrefor",
+                "oferta": [
+                  {
+                    "precio": "1€",
+                    "fechaini": "20/03/23",
+                    "fechafin": "30/03/23"
+                  }
+                ],
+                "adquirido": true
+                  
+              }
+            ]
+          },
+          {
+            "lavavajillas": [
+              {
+                "precio": "1.59€",
+                "tamaño": "1000ml",
+                "marca": "Carrefor",
+                "oferta":[],
+                "adquirido": true
+               
+              }
+            ]
+          },
+          {
+            "bolsas basura": [
+              {
+                "precio": "1.99€",
+                "cantidad": "40u",
+                "tamaño": "30l",
+                "oferta":[],
+                "adquirido": false
+            
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "seccion": "fruteria",
+        "productos": [
+          {
+            "manzana golden": [
+              {
+                "precio": "2.55€",
+                "descripcion": "ecologica bandeja",
+                "cantidad": "4u",
+                "peso": "750g",
+                "oferta":[],
+                "adquirido": true
+              
+              }
+            ]
+          },
+          {
+            "pera blanquilla": [
+              {
+                "precio": "2.65€",
+                "descripcion": "cesta",
+                "cantidad": "10u",
+                "peso": "1500g",
+                "oferta":[],
+                "adquirido": true
+              
+              }
+            ]
+          },
+          {
+            "platano": [
+              {
+                "precio": "3.59€",
+                "descripcion": "ecologico",
+                "peso": "1200g",
+                "oferta": [
+                  {
+                    "precio": "3€",
+                    "fechaini": "20/03/23",
+                    "fechafin": "30/03/23"
+                  }
+                ],
+
+                "adquirido" :true
+              }
+            ]
+                
+                }
+              ]
+            }
+        ]
+      },
+  {
+        "seccion": "carniceria",
+        "productos": [
+            {
+                "pollo": [
+                    {
+                        "precio": "5€",
+                        "descripcion": "corte extrafino",
+                        "peso": "320g",
+                        "oferta": [
+                            {
+                                "precio": "4.25€",
+                                "fechaini": "20/03/23",
+                                "fechafin": "30/03/23"
+                            }
+                        ],
+                        "adquirido": true
+                      }
+                    ]   
+                
+            },
+          
+            {
+                 "ternera": [
+                    {
+                        "precio": "6.22€",
+                         "descripcion": "Filete 1ªA añojo",
+                         "peso": "500g",
+                          "oferta": [],
+                          "adquirido": true
+                                            
+                                      }
+                                  ]
+                              }
+                          ]
+                        
+                      },
+                      {
+                          "costo": "24.75€",
+                          "costodescuento": "23.37€"
+                      }
+
+[
+  {
+    "supermercado2": [
+      {
+        "nombre": "Lidl",
+        "localidad": "Mostoles",
+        "direccion": "calle del obispo, 8"
+      },
+      {
+        "seccion": "hogar",
+        "productos": [
+          {
+            "limpiacristales": [
+              {
+                "precio": "1.50€",
+                "tamaño": "1000ml",
+                "marca": "Bosque Verde",
+                "oferta": [],
+                "adquirido": true
+                  
+              }
+            ]
+          },
+          {
+            "lavavajillas": [
+              {
+                "precio": "1.30€",
+                "tamaño": "1000ml",
+                "marca": "Bosque Verde",
+                "oferta":[],
+                "adquirido": true
+               
+              }
+            ]
+          },
+          {
+            "bolsas basura": [
+              {
+                "precio": "1.99€",
+                "cantidad": "40u",
+                "tamaño": "30l",
+                "marca": "Bosque Verde",
+                "oferta":[],
+                "adquirido": false
+            
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "seccion": "fruteria",
+        "productos": [
+          {
+            "manzana golden": [
+              {
+                "precio": "2.60€",
+                "descripcion": "ecologica bandeja",
+                "cantidad": "4u",
+                "peso": "750g",
+                "oferta":[],
+                "adquirido": true
+              
+              }
+            ]
+          },
+          {
+            "pera blanquilla": [
+              {
+                "precio": "2.50€",
+                "descripcion": "cesta",
+                "cantidad": "10u",
+                "peso": "1500g",
+                "oferta":[  
+                  {
+                  "precio": "2€",
+                  "fechaini": "15/03/23",
+                  "fechafin": "20/03/23"
+                }
+              ],
+                "adquirido": true
+              
+              }
+            ]
+          },
+          {
+            "platano": [
+              {
+                "precio": "3.59€",
+                "descripcion": "ecologico",
+                "peso": "1200g",
+                "oferta": [],
+
+                "adquirido" :true
+              }
+            ]
+                
+                }
+              ]
+            }
+        ]
+      },
+        
+    
+    {
+        "seccion": "carniceria",
+        "productos": [
+            {
+                "pollo": [
+                    {
+                        "precio": "5€",
+                        "descripcion": "corte extrafino",
+                        "peso": "320g",
+                        "oferta": [
+                            {
+                                "precio": "4.25€",
+                                "fechaini": "20/03/23",
+                                "fechafin": "30/03/23"
+                            }
+                        ],
+                        "adquirido": true
+                      }
+                    ]   
+                
+            },
+          
+            {
+                 "ternera": [
+                    {
+                        "precio": "6.22€",
+                         "descripcion": "Filete 1ªA añojo",
+                         "peso": "500g",
+                          "oferta": [],
+                          "adquirido": true
+                                            
+                                      }
+                                  ]
+                              }
+                          ]
+                        
+                      },
+                      {
+                          "costo": "24.70€",
+                          "costodescuento": "23.45€"
+                      }
+]
+
+
+
+
+  
+
+
+
